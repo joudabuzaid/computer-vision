@@ -1,4 +1,4 @@
-# copmuter-vision
+# computer-vision
 
 The main goal of this assignment is to apply geometric transformation. This program should do the following:
 1) take the input image and display it
