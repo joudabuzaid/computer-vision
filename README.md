@@ -1,6 +1,6 @@
 # computer-vision
 
-This program should do the following:
+This program does the following:
 1) read the attached image "testImage.jpg".
 2) resize it so that its size is (16x16). 
 3) convert it to gray scale.
